@@ -1,0 +1,10 @@
+{
+  "todos": [
+    {
+      "id": "seed-todo-1",
+      "title": "完成後台資料庫建置",
+      "completed": false,
+      "createdAt": "2026-01-01T00:00:00.000Z"
+    }
+  ]
+}
